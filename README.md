@@ -1,6 +1,6 @@
 # LuaJIT / C++ interop using luaaa
 
-This is tiny example interop between LuaJIT and C++
+This is tiny example interop between LuaJIT and C++ using luaaa
 
 ## Usage
 
