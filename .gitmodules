@@ -1,0 +1,3 @@
+[submodule "luaaa"]
+	path = luaaa
+	url = https://github.com/gengyong/luaaa
